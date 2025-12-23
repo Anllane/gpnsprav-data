@@ -1,27 +1,23 @@
-{
-  "version": 1,
-  "updated_at": "2025-01-01",
-  "documents": [
-    {
-      "id": 1,
-      "title": "ФЗ №123",
-      "description": "Технический регламент о требованиях пожарной безопасности",
-      "category": "ФЗ",
-      "url": "https://www.fkr-spb.ru/upload/iblock/15d/t6koxc0v1dvnnxc5c3dimxkalq4xr78n.pdf"
-    },
-    {
-      "id": 2,
-      "title": "СП 1.13130.2020",
-      "description": "Эвакуационные пути и выходы",
-      "category": "СП",
-      "url": "https://air-43.ru/assets/mgr/normativ/sp01.13130.2020.pdf"
-    },
-    {
-      "id": 3,
-      "title": "ГОСТ Р 53295-2009",
-      "description": "Системы пожарной сигнализации",
-      "category": "ГОСТ",
-      "url": "https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=2025&search=ГОСТ%20Р%2053295-2009&RegNum=1&DocOnPageCount=15&id=166780"
-    }
-  ]
-}
+[
+  {
+    "title": "ФЗ №123",
+    "description": "Технический регламент о требованиях пожарной безопасности",
+    "category": "ФЗ",
+    "type": "PDF",
+    "contentValue": "https://www.fkr-spb.ru/upload/iblock/15d/t6koxc0v1dvnnxc5c3dimxkalq4xr78n.pdf"
+  },
+  {
+    "title": "СП 1.13130.2020",
+    "description": "Эвакуационные пути и выходы",
+    "category": "СП",
+    "type": "PDF",
+    "contentValue": "https://air-43.ru/assets/mgr/normativ/sp01.13130.2020.pdf"
+  },
+  {
+    "title": "ГОСТ Р 53295-2009",
+    "description": "Системы пожарной сигнализации",
+    "category": "ГОСТ",
+    "type": "LINK",
+    "contentValue": "https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=2025&search=ГОСТ%20Р%2053295-2009&RegNum=1&DocOnPageCount=15&id=166780"
+  }
+]
