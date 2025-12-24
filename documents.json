@@ -19,5 +19,19 @@
     "category": "ГОСТ",
     "type": "LINK",
     "contentValue": "https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=2025&search=ГОСТ%20Р%2053295-2009&RegNum=1&DocOnPageCount=15&id=166780"
+  },
+  {
+    "title": "Тестовый PDF (Яндекс)",
+    "description": "Проверка загрузки",
+    "category": "Тест",
+    "type": "PDF",
+    "contentValue": "https://yandex.ru/company/file/brand/Yandex_Brandbook_2022.pdf"
+  },
+  {
+    "title": "Тест Ссылки (Google)",
+    "description": "Проверка браузера",
+    "category": "Тест",
+    "type": "LINK",
+    "contentValue": "https://google.com"
   }
 ]
