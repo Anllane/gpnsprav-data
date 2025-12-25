@@ -18,7 +18,7 @@
     "description": "Системы пожарной сигнализации",
     "category": "ГОСТ",
     "type": "LINK",
-    "contentValue": "https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=12&year=2025&search=ГОСТ%20Р%2053295-2009&RegNum=1&DocOnPageCount=15&id=166780"
+    "contentValue": "https://www.kemruspro.ru/wp-content/uploads/2018/07/53295-2009.pdf"
   },
   {
     "title": "Тест PDF",
@@ -26,13 +26,6 @@
     "category": "Тест",
     "type": "PDF",
     "contentValue": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-  },
-  {
-    "title": "Тест Браузера",
-    "description": "Проверка ссылки",
-    "category": "Тест",
-    "type": "LINK",
-    "contentValue": "https://ya.ru"
   }
 
 ]
