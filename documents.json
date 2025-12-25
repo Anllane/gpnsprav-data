@@ -18,14 +18,14 @@
     "description": "Системы пожарной сигнализации",
     "category": "ГОСТ",
     "type": "LINK",
-    "contentValue": "https://www.kemruspro.ru/wp-content/uploads/2018/07/53295-2009.pdf"
+    "contentValue": " "
   },
   {
     "title": "Тест PDF",
     "description": "Проверка файла",
     "category": "Тест",
     "type": "PDF",
-    "contentValue": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    "contentValue": "https://"
   }
 
 ]
