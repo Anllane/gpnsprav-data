@@ -21,11 +21,11 @@
     "contentValue": " "
   },
   {
-    "title": "Тест PDF",
+    "title": "Тест PDF2",
     "description": "Проверка файла",
     "category": "Тест",
     "type": "PDF",
-    "contentValue": "https://"
+    "contentValue": "https://www.w3.org/WAI"
   }
 
 ]
